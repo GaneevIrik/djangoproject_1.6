@@ -1,0 +1,1 @@
+# djangoproject_1.6
